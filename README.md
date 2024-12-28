@@ -72,7 +72,17 @@ pip install -r requirements.txt
 python DoS.py
 ```
 
-#### [!]Warning Use VPN to hide IP[!]
+
+# Warning
+
+- **Use a VPN or Proxy** to hide your IP and avoid being blocked.
+- **Connect via WiFi**, not mobile data, to prevent excessive data usage.
+- **Use responsibly**. Only test on servers you have permission to avoid any legal issues.
+- **Respect Terms of Service**. Do not attack third-party services without consent.
+- **Ensure privacy** and protect sensitive data during testing.
+
+**Use this tool ethically and at your own risk.**
+
 
 ## Legal Disclaimer
 
