@@ -72,13 +72,6 @@ pip install -r requirements.txt
 python DoS.py
 ```
 
----
-
-## Screenshot
-![Banner](banner.png)
-
----
-
 ## Legal Disclaimer
 
 This project is intended for **educational purposes only**. Unauthorized use of this tool against systems you do not own or have explicit permission to test is **illegal** and could result in severe consequences.
