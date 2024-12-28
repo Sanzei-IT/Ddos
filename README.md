@@ -3,10 +3,10 @@
 
 ![Banner](banner.png)
 
-![GitHub stars](https://img.shields.io/github/stars/wanzxploit/DoS?style=social)  
-![Version](https://img.shields.io/badge/version-1.0(Beta)-brightgreen)  
-![Python](https://img.shields.io/badge/python-3.7+-blue)  
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20termux-lightgrey)  
+![GitHub stars](https://img.shields.io/github/stars/wanzxploit/DoS?style=social)
+![Version](https://img.shields.io/badge/version-1.0(Beta)-brightgreen)
+![Python](https://img.shields.io/badge/python-3.7+-blue)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20termux-lightgrey)
 
 ## About the Project
 
