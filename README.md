@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ### 5. Run the Tool
 ```bash
-python DoS.py
+python main.py
 ```
 
 
