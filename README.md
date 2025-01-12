@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ### 5. Run the Tool
 ```bash
-python main.py
+python3 main.py
 ```
 
 
