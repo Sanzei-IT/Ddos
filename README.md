@@ -53,7 +53,9 @@ sudo apt update && sudo apt upgrade -y
 pkg install git python -y
 
 # For Linux
-sudo apt install git python3 python3-pip -y
+sudo apt install git -y
+sudo apt install python3 -y
+sudo apt install python3-pip -y
 ```
 
 ### 3. Clone the Repository
@@ -65,6 +67,12 @@ cd DoS
 ### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+# Alternatif for userland
+python3 -m venv myenv
+source myenv/bin/activate
+pip install requests
+pip install rich
 ```
 
 ### 5. Run the Tool
