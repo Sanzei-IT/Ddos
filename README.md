@@ -90,4 +90,4 @@ This project is intended for **educational purposes only**. Unauthorized use of 
 
 ---
 
-**Developed by Wanz Xploit**
+**Developed by Sanzei Soft**
