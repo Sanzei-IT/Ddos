@@ -24,11 +24,11 @@ def print_banner():
 
 ▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒  [bright_yellow]╔══════════════════════════════╗[/]
 ▒▒█▒▒▒▄██████████▄▒▒▒▒  [bright_yellow]║[/]    [bold cyan]DoS Testing Framework[/]     [bright_yellow]║[/]
-▒█▐▒▒▒████████████▒▒▒▒  [bright_yellow]║[/]   [bold red]Created by Wanz Xploit[/]     [bright_yellow]║[/]
+▒█▐▒▒▒████████████▒▒▒▒  [bright_yellow]║[/]   [bold red] Sanzei Soft [/]     [bright_yellow]║[/]
 ▒▌▐▒▒██▄▀██████▀▄██▒▒▒  [bright_yellow]╚══════════════════════════════╝[/]
 ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒  [bright_yellow][[/][bold red]WARNING[/][bright_yellow]][/] [bold white]Educational Purposes Only[/]
-▐┼▐▒▒██████████████▒▒▒  [bright_yellow][[/][bold cyan]INFO[/][bright_yellow]][/] [bold white]Press Ctrl+C to Stop Attack[/]
-▐▄▐████─▀▐▐▀█─█─▌▐██▄▒  [bright_yellow][[/][bold green]MODE[/][bright_yellow]][/] [bold white]Unlimited Threads | Auto-Timer[/]
+▐┼▐▒▒██████████████▒▒▒  [bright_yellow][[/][bold cyan]INFO[/][bright_yellow]][/] [bold white]Untuk ngebergentiin tekan CTRL+C/Z[/]
+▐▄▐████─▀▐▐▀█─█─▌▐██▄▒  [bright_yellow][[/][bold green]MODE[/][bright_yellow]][/] [bold white]Unlimited Ddos | Auto-Timer[/]
 ▒▒█████──────────▐███▌
 ▒▒█▀▀██▄█─▄───▐─▄███▀▒
 ▒▒█▒▒███████▄██████▒▒▒
