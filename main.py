@@ -29,13 +29,9 @@ def print_banner():
 ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒  [bright_yellow][[/][bold red]WARNING[/][bright_yellow]][/] [bold white]Educational Purposes Only[/]
 ▐┼▐▒▒██████████████▒▒▒  [bright_yellow][[/][bold cyan]INFO[/][bright_yellow]][/] [bold white]Untuk ngebergentiin tekan CTRL+C/Z[/]
 ▐▄▐████─▀▐▐▀█─█─▌▐██▄▒  [bright_yellow][[/][bold green]MODE[/][bright_yellow]][/] [bold white]Unlimited Ddos | Auto-Timer[/]
-▒▒█████──────────▐███▌
-▒▒█▀▀██▄█─▄───▐─▄███▀▒
-▒▒█▒▒███████▄██████▒▒▒
-▒▒▒▒▒██████████████▒▒▒
-▒▒▒▒▒█████████▐▌██▌▒▒▒
-▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
-▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
+ __                   __     _   
+(_  _ __  _  _  o    (_  _ _|__|_
+__)(_|| | /_(/_ |    __)(_) |  |_
 ⠀⠀⠀⠀⠀⠀[/]"""
     console.print(Align.center(banner))
 
